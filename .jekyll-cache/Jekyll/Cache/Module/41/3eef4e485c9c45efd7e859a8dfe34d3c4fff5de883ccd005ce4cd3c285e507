@@ -5,14 +5,14 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/webiste/">
+        <a class="site-title" href="/website/">
           Welcome to My Website :)
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/webiste/">Home</a>
+              <a href="/website/">Home</a>
             </li><li class="masthead__menu-item">
-              <a href="/webiste/assets/docs/resume.pdf">Resume</a>
+              <a href="/website/assets/docs/resume.pdf">Resume</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
