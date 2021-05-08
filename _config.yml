@@ -36,7 +36,7 @@ plugins:
 # settings for author profile
 author:
   name   : "Ye Tao Janson"
-  # avatar : "/assets/images/feature.png"
+  avatar : "/assets/images/mountain.png"
   bio    : "Master of Data Science @ USF  
   \nEconomics and Statistics @ UCDavis"
   location: "San Francisco, CA"
@@ -45,9 +45,9 @@ author:
   email  : ytao16dons@usfca.edu 
 
 
-# pagination for blog pag
-paginate: 10 # number of posts to show
-paginate_path: /page:num/
+# # pagination for blog pag
+# paginate: 10 # number of posts to show
+# paginate_path: /page:num/
 
 # default YAML front matter
 defaults:
