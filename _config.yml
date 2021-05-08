@@ -25,14 +25,14 @@ url: "http://Janson.github.io" # the base hostname & protocol for your site, e.g
 # url: "http://www.pwills.com"
 
 
-# Build settings
+# Build setting
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
   # - jekyll-remote-theme
-
+remote_theme: jekyll/minima
 
 # settings for author profile
 author:
