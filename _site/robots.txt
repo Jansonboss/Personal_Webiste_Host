@@ -1,1 +1,1 @@
-Sitemap: http://jansonboss.github.io/sitemap.xml
+Sitemap: http://janson.github.io/sitemap.xml

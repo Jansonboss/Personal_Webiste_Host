@@ -1,4 +1,4 @@
-I" 
+I"
 <h1 id="smart-climate-indices">Smart Climate Indices</h1>
 
 <p><a href="https://entelligent.com">Entelligent</a> currently publishes two indices, the SCLMX and SCLMK. These
@@ -23,7 +23,7 @@ and cvxpy (a convex optimization library) are all used extensively.</p>
 
 <h2 id="10-year-backtest">10-Year Backtest</h2>
 
-<p><img src="http://jansonboss.github.io/assets/images/scml.png" /></p>
+<p><img src="http://janson.github.io/assets/images/scml.png" /></p>
 
 <p>In order to test the efficacy of our approach, we have performed a ten-year
 backtest, using the S&amp;P 500 as a benchmark. This portfolio has a maximum weight

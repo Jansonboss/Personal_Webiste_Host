@@ -1,4 +1,4 @@
-I"<,<h1 id="anomaly-detection-in-dynamic-networks">Anomaly Detection in Dynamic Networks</h1>
+I"4,<h1 id="anomaly-detection-in-dynamic-networks">Anomaly Detection in Dynamic Networks</h1>
 
 <p><em>(This section is an overview of material available as a preprint <a href="https://arxiv.org/abs/1707.07362">on the arXiv</a>.)</em></p>
 
@@ -98,7 +98,7 @@ network (e.g. are “friends” on Facebook).</p>
 each connection as a line (called an <strong>edge</strong>). The resulting object is called a
 <strong>network</strong>.<sup id="fnref:fnote1" role="doc-noteref"><a href="#fn:fnote1" class="footnote" rel="footnote">1</a></sup> The table above corresponds to the network seen below:</p>
 
-<p><img src="http://jansonboss.github.io/assets/images/research/network.png" width="33%" align="right" /></p>
+<p><img src="http://janson.github.io/assets/images/research/network.png" width="33%" align="right" /></p>
 
 <p>Looking at this network, we see that the different people have different
 “roles,” so to speak. Jimmy is central, acting as a <strong>hub</strong>; he is friends with
@@ -122,7 +122,7 @@ the length (number of edges) of the shortest path between them. Foe example, in
 the image above, the shortest path between Nicole and Sally goes through Jimmy,
 and has length 2.</p>
 
-<p><img src="http://jansonboss.github.io/assets/images/research/resistance.png" width="45%" hspace="20" align="left" /></p>
+<p><img src="http://janson.github.io/assets/images/research/resistance.png" width="45%" hspace="20" align="left" /></p>
 
 <p>This approach is appealing in its simplicity, but has its drawbacks. In the road
 network of New York City, for example, the shortest path between Brooklyn and

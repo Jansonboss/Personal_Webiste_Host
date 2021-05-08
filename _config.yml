@@ -20,19 +20,19 @@
 
 title: Welcome to My Website :)
 # url: 
-baseurl: "demo" # the subpath of your site, e.g. /blog
-# url: "demo # the base hostname & protocol for your site, e.g. http://example.com
-url: ""
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://Janson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://www.pwills.com"
 
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-include-cache
 
 # Build settings
 theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  # - jekyll-remote-theme
+
 
 # settings for author profile
 author:
