@@ -8,32 +8,32 @@ header:
 excerpt: "Greatness lies where there is simplicity"
 classes: wide
 
-# feature_row:
-#   # - image_path: assets/images/ai_head.jpg
-#   #   title: "Machine Learning Algorithms Implemantation"
-#   #   excerpt: "ML Algo from scratch with Pythin annd Numpy."
-#   #   url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
-#   #   btn_label: "Read More"
-#   #   btn_class: "btn--primary"	
-#   # - image_path: /assets/images/miles.jpg
-#   #   title: "Algorithmic Musical Genre Classification"
-#   #   excerpt: "Detection of musical genre directly from the audio file."
-#   #   url: "/portfolio/genre_cls/"
-#   #   btn_label: "Read More"
-#   #   btn_class: "btn--primary"	
-#   # - image_path: /assets/images/social_network.jpg
-#   #   title: "Feature Selection in Machine Learning"
-#   #   excerpt: "compute feature importance with ranking mechanism."
-#   #   url: "/portfolio/social-networks/"
-#   #   btn_label: "Read More"
-#   #   btn_class: "btn--primary"
-#   # - image_path: /assets/images/social_network.jpg
-#   #   title: "Topic Modeling "
-#   #   excerpt: "Anomaly detection in social network data, using the graph resistance."
-#   #   url: "/portfolio/social-networks/"
-#   #   btn_label: "Read More"
-#   #   btn_class: "btn--primary"
-# ---
+feature_row:
+  - image_path: /assets/images/mountain.png
+    title: "Machine Learning Algorithms Implemantation"
+    excerpt: "ML Algo from scratch with Pythin annd Numpy."
+    url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
+  - image_path: /assets/images/mountain.png
+    title: "Algorithmic Musical Genre Classification"
+    excerpt: "Detection of musical genre directly from the audio file."
+    url: "/portfolio/genre_cls/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"	
+  - image_path: /assets/images/mountain.png
+    title: "Feature Selection in Machine Learning"
+    excerpt: "compute feature importance with ranking mechanism."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/mountain.png
+    title: "Topic Modeling "
+    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    url: "/portfolio/social-networks/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
 
 # About Me
 
@@ -51,7 +51,7 @@ This website basically serves as a playground for me to share some of my study a
 
 <!-- <div style="margin-bottom:0.5cm" align="center"><font size="1"> . </font></div> -->
 
-# {% include feature_row %}
+{% include feature_row %}
 
 [Data Science Program of USF]: https://www.usfca.edu/arts-sciences/graduate-programs/data-science
 [LexisNexis]: https://www.lexisnexis.com/en-us/gateway.page
