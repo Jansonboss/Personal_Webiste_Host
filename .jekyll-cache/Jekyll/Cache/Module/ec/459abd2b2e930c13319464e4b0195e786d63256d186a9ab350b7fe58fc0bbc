@@ -1,18 +1,18 @@
-I"õ
+I"
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/">
+        <a class="site-title" href="/webiste/">
           Welcome to My Website :)
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">Home</a>
+              <a href="/webiste/">Home</a>
             </li><li class="masthead__menu-item">
-              <a href="/assets/docs/resume.pdf">Resume</a>
+              <a href="/webiste/assets/docs/resume.pdf">Resume</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
