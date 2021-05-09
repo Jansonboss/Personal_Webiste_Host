@@ -19,9 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Welcome to My Website"
-# url: 
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://Janson.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: """ # the base hostname & protocol for your site, e.g. http://example.com
 # url: "http://www.pwills.com"
 
 
@@ -32,7 +30,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   # - jekyll-remote-theme
-remote_theme: jekyll/minima
 
 # settings for author profile
 author:
