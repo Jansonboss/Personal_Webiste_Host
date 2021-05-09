@@ -48,7 +48,7 @@ This website basically serves as a playground for me to share some of my study a
 
 
 # Featured Projects
-<% include feature_row %>
+{% include feature_row %}
 
 [Data Science Program of USF]: https://www.usfca.edu/arts-sciences/graduate-programs/data-science
 [LexisNexis]: https://www.lexisnexis.com/en-us/gateway.page
