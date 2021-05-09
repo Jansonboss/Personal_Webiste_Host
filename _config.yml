@@ -36,7 +36,7 @@ plugins:
 # settings for author profile
 author:
   name   : "Ye Tao Janson"
-  avatar : "/assets/images/mountain.png"
+  avatar : "/assets/images/selfie.png"
   bio    : "Master of Data Science @ USF  
   \nEconomics and Statistics @ UCDavis"
   location: "San Francisco, CA"
