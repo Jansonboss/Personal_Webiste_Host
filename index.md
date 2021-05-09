@@ -1,6 +1,6 @@
 ---
 # title: "Greatness lies where there is simplicity"
-layout: defualt
+layout: home
 # date: 2020-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/mountain.png
@@ -48,10 +48,7 @@ This website basically serves as a playground for me to share some of my study a
 
 
 # Featured Projects
-
-
-<!-- <div style="margin-bottom:0.5cm" align="center"><font size="1"> . </font></div> -->
-
+<% include feature_row %>
 
 [Data Science Program of USF]: https://www.usfca.edu/arts-sciences/graduate-programs/data-science
 [LexisNexis]: https://www.lexisnexis.com/en-us/gateway.page

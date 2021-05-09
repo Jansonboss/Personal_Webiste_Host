@@ -1,4 +1,4 @@
-I"w<h1 id="about-me">About Me</h1>
+I"D<h1 id="about-me">About Me</h1>
 
 <p>Master student at <strong><a href="https://www.usfca.edu/arts-sciences/graduate-programs/data-science">Data Science Program of USF</a></strong>, and will be graduating this coming Agust, 2021. My interests include Statistics, Data Analysis and Finance, Recently, I’ve found a great passion for Data Science and Machine Learning, and will devote myself to exploitation in this area. Also I am a semi-professional GO player with 4 Dan certification.</p>
 
@@ -10,7 +10,6 @@ With my strong modeling, and NLP skills, I have been successfully finished sever
 <div style="margin-bottom:2cm" align="center"><font size="0.1"> . </font></div>
 
 <h1 id="featured-projects">Featured Projects</h1>
-
-<!-- <div style="margin-bottom:0.5cm" align="center"><font size="1"> . </font></div> -->
+<p>&lt;% include feature_row %&gt;</p>
 
 :ET
