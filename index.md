@@ -1,6 +1,6 @@
 ---
 # title: "Greatness lies where there is simplicity"
-layout: home
+layout: default
 # date: 2020-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/mountain.png
