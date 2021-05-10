@@ -21,10 +21,10 @@ feature_row:
     url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/mountain.png
+  - image_path: /assets/images/featselec.png
     title: "Feature Selection in Machine Learning"
-    excerpt: "compute feature importance with ranking mechanism."
-    url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
+    excerpt: "Compute and compare feature importance with various mechanisms in ML with rent data."
+    url: "https://github.com/Jansonboss/Feature_Importance_and_Selection"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/mountain.png
