@@ -9,16 +9,16 @@ excerpt: "Greatness lies where there is simplicity"
 classes: wide
 
 feature_row:
-  - image_path: /assets/images/mountain.png
+  - image_path: /assets/images/ml2.png
     title: "Machine Learning Algos Implemantation"
-    excerpt: "ML Algo from scratch with Pythin annd Numpy."
+    excerpt: "ML Algo from scratch with Python and Numpy."
     url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
     btn_label: "Read More"
     btn_class: "btn--primary"	
-  - image_path: /assets/images/mountain.png
-    title: "Algorithmic Musical Genre Classification"
-    excerpt: "Detection of musical genre directly from the audio file."
-    url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
+  - image_path: /assets/images/cbow.png
+    title: "NER with Continous Bag of Word Model (CBOW)"
+    excerpt: "Name Entity Recognization with CBOW in PyTorch."
+    url: "https://github.com/Jansonboss/NER_with_CBOW"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/featselec.png
@@ -28,9 +28,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/mountain.png
-    title: "Topic Modeling "
+    title: "Topic Modeling with Jeopardy Questions (coming soon)"
     excerpt: "Anomaly detection in social network data, using the graph resistance."
-    url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
+    # url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
