@@ -28,8 +28,8 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/mountain.png
-    title: "Topic Modeling with Jeopardy Questions (coming soon)"
-    excerpt: "Anomaly detection in social network data, using the graph resistance."
+    title: "Topic Modeling LDA & NMF(coming soon)"
+    excerpt: "Apply LDA and NMF on Jeopardy QA pairs ."
     # url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
     btn_label: "Read More"
     btn_class: "btn--primary"
