@@ -27,7 +27,7 @@ feature_row:
     url: "https://github.com/Jansonboss/Machine_Learning_Project/tree/main/Feature_Selection"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rnn2.png
+  - image_path: /assets/images/rnn.png
     title: "Recipe Generation with RNN"
     excerpt: "Apply Character-based RNN to generate recipe in PyTorch"
     url: "https://github.com/Jansonboss/NLP_Project_Pytorch/tree/main/RNN_Recipe_Generate"
