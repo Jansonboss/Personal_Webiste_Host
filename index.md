@@ -18,16 +18,22 @@ feature_row:
   - image_path: /assets/images/cbow.png
     title: "NER with Continous Bag of Word Model (CBOW)"
     excerpt: "Name Entity Recognization with CBOW in PyTorch."
-    url: "https://github.com/Jansonboss/NER_with_CBOW"
+    url: "https://github.com/Jansonboss/NLP_Project_Pytorch/tree/main/NER_CBOW"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/featselec.png
     title: "Feature Selection in Machine Learning"
     excerpt: "Compute and compare feature importance with various mechanisms in ML with rent data."
-    url: "https://github.com/Jansonboss/Feature_Importance_and_Selection"
+    url: "https://github.com/Jansonboss/Machine_Learning_Project/tree/main/Feature_Selection"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/mountain.png
+  - image_path: /assets/images/rnn2.png
+    title: "Recipe Generation with RNN"
+    excerpt: "Apply Character-based RNN to generate recipe in PyTorch"
+    url: "https://github.com/Jansonboss/NLP_Project_Pytorch/tree/main/RNN_Recipe_Generate"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/nmf2.png
     title: "Topic Modeling LDA & NMF(coming soon)"
     excerpt: "Apply LDA and NMF on Jeopardy QA pairs ."
     # url: "https://github.com/Jansonboss/Machine-Learning-From-Scratch"
@@ -37,10 +43,9 @@ feature_row:
 
 # About Me
 
-Master student at **[Data Science Program of USF]**, and will be graduating this coming Agust, 2021. My interests include Statistics, Data Analysis and Finance, Recently, I've found a great passion for Data Science and Machine Learning, and will devote myself to exploitation in this area. Also I am a semi-professional GO player with 4 Dan certification.
+Master student at **[Data Science Program of USF]**, and will be graduating this coming Agust, 2021, and I have an undergraduate degree at **[UC Davis]** in Statistics and Economics. My interests include Data Analysis and Finance, Recently, I've found a great passion for Data Science and Machine Learning, and will devote myself to exploitation in this area. Also I am a semi-professional GO player with 4 Dan certification.
 
-In addition, I'm currently working as a Data Scientist intern at **[LexisNexis]**, mainly focus on natural language processing in the Legal domain.
-With my strong modeling, and NLP skills, I have been successfully finished several projects, and one of them is currently being in the production phrase, and will be released as an API for interal usgae very soon :) 
+Right now, I'm currently working as a Data Scientist intern at **[LexisNexis]**, mainly focus on natural language processing in the Legal domain. Having a lot of fun working there as well as having a good time with my coworkers :)
 
 This website basically serves as a playground for me to share some of my study and projects in a more accessible manner and explore the use of data to communicate ideas. I used to code predominantly in R but now primarily in Python.
 
@@ -52,3 +57,4 @@ This website basically serves as a playground for me to share some of my study a
 
 [Data Science Program of USF]: https://www.usfca.edu/arts-sciences/graduate-programs/data-science
 [LexisNexis]: https://www.lexisnexis.com/en-us/gateway.page
+[UC Davis]: https://www.ucdavis.edu/

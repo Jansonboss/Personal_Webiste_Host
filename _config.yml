@@ -42,10 +42,10 @@ author:
   location: "San Francisco, CA"
   email  : ytao16dons@usfca.edu  
   links: 
-    - label: "Github"
-      url: "https://github.com/Jansonboss"
     - label: "Linkedin"
       url: https://www.linkedin.com/in/yetaojanson
+    - label: "Github"
+      url: "https://github.com/Jansonboss"
 
 # # pagination for blog pag
 # paginate: 10 # number of posts to show
