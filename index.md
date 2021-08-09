@@ -43,7 +43,7 @@ feature_row:
 
 # About Me
 
-Master student at **[Data Science Program of USF]**, and will be graduating this coming Agust, 2021, and I have an undergraduate degree at **[UC Davis]** in Statistics and Economics. My interests include Data Analysis and Finance, Recently, I've found a great passion for Data Science and Machine Learning, and will devote myself to exploitation in this area. Also I am a semi-professional GO player with 4 Dan certification.
+Hello!! I am Master student at **[Data Science Program of USF]**, and will be graduating this coming Agust, 2021, and I have an undergraduate degree at **[UC Davis]** in Statistics and Economics. My interests include Data Analysis and Finance, Recently, I've found a great passion for Data Science and Machine Learning, and will devote myself to exploitation in this area. Also I am a semi-professional GO player with 4 Dan certification.
 
 Right now, I'm currently working as a Data Scientist intern at **[LexisNexis]**, mainly focus on natural language processing in the Legal domain. Having a lot of fun working there as well as having a good time with my coworkers :)
 
